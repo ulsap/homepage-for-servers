@@ -3,6 +3,6 @@
     "description": "Simple site",
     "license": "BSD-2-Clause",
     "require": {
-        "jbowens/jbbcode": "^1.42"
+         "jbbcode/jbbcode": "1.3.*"
     }
 }
