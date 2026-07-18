@@ -1,1 +1,1 @@
-<?php $password = "Amalia_wrists@6599"?>
+<?php $password = "YOUR_PASS"?>
