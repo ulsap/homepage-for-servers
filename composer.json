@@ -1,5 +1,8 @@
 {
+    "name": "ulsap/homepage-for-servers",
+    "description": "Simple site",
+    "license": "BSD-2-Clause",
     "require": {
-        "jbbcode/jbbcode": "^1.4"
+        "jacksondo7/jbbcode": "^1.42"
     }
 }
