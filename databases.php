@@ -1,8 +1,8 @@
 <?php
 require_once 'password.php'; 
 $host    = 'localhost';
-$dbName  = 'home_site';
-$user    = 'server_admin';
+$dbName  = 'your_info';
+$user    = 'your_info';
 $pass    = $password;
 $charset = 'utf8mb4'; 
 
